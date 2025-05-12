@@ -2,7 +2,6 @@
 
 ###
 <h2 align="left">Casual Web Developing and stuff</h2>
-<p align="left">Aspiring Full-Stack Web Developer</p>
 
 ###
 
