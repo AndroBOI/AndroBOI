@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Casual Full Stack App Developing & Stuff</p>
+<p align="left">Casual Full Stack Apps & Stuff</p>
 
 ###
 
