@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Casual Full Stack Apps & Stuff</p>
+<p align="left">Just saving my trash ahh codes in here</p>
 
 ###
 
