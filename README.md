@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Just saving my trash ahh codes in here</p>
+<p align="left">Just saving my random projects here</p>
 
 ###
 
